@@ -1,0 +1,25 @@
+{
+  "name": "cookies-challenge",
+  "version": "1.0.0",
+  "description": "Practice with cookies",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeehowdy/cookies-challenge.git"
+  },
+  "author": "Kyle Mersinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yeehowdy/cookies-challenge/issues"
+  },
+  "homepage": "https://github.com/Yeehowdy/cookies-challenge#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
